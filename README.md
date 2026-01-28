@@ -33,18 +33,20 @@ Each record corresponds to a **vendor payment transaction**, not individual food
 
 ## Repository Structure
 
+```
 .
 ├── Code/
-│ ├── data_preprocessing.py
-│ ├── september_analysis.py
-│ ├── october_analysis.py
-│ ├── november_analysis.py
-│ ├── december_analysis.py
-│ ├── august_analysis.py
-│ ├── benford_analysis.py
-│ └── network_analysis.py
+│   ├── data_preprocessing.py
+│   ├── september_analysis.py
+│   ├── october_analysis.py
+│   ├── november_analysis.py
+│   ├── december_analysis.py
+│   ├── august_analysis.py
+│   ├── benford_analysis.py
+│   └── network_analysis.py
 │
 ├── README.md
+```
 
 
 
